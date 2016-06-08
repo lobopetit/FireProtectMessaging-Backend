@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FireProtect</string>
+
+    <string name="navigation_drawer_open">Abre navegador drawer</string>
+    <string name="navigation_drawer_close">Cierra navigation drawer</string>
+
+    <string name="help">Ayuda</string>
+    <string name="legal_terms">Condiciones legales</string>
+    <string name="nav_use_terms">Términos de uso</string>
+    <string name="nav_privacy_policy">Política de privacidad</string>
+    <string name="button_main_screen">Inicio</string>
+    <string name="call_emergency">Llamada de emergencia en proceso</string>
+    <string name="go_help_screen">Ir a ayuda</string>
+    <string name="help_text">\n\t\tEsta aplicación consiste en la monitorización del peligro d\'incendio que hay en una zona concreta.
+\n\n\t\t Puedes mandar-nos tus lecturas de humidad y temperatura, junto con tu posición y nosotros crearemos el mapa. O bien, simplemente puedes consultar el mapa con los datos enviados por otros usuarios.
+        \n\n\t\tSi continuas experimentando problemas, no dudes en ponerte en contacto con nosotros.</string>
+    <string name="intro">intro</string>
+    <string name="credits">Creado por Xavier y Dídac</string>
+    <string name="initial_description">Envia tus valores o consulta los existentes</string>
+    <string name="settings">Configuración</string>
+    <string name="contact">Contacta con nosotros</string>
+    <string name="start_mesure">Toca el boton para iniciar la medida</string>
+    <string name="send_mail">Mandar correo</string>
+    <string name="saved">Los cambios han sido guardados</string>
+    <string name="phoning">Marcando...</string>
+    <string name="btn_start_recording">INICIA LAS MEDICIONES</string>
+    <string name="btn_stop_recording">PARAR DE MEDIR</string>
+    <string name="new_information">Nuevos datos!!</string>
+    <string name="error_mesuring">No se ha podido obtener los datos actuales. Comprueva tu conexión.</string>
+    <string name="last_reading">Ultimos datos medidos</string>
+    <string name="temperatureError">No hay sensor de temperatura disponible en este dispositivo</string>
+    <string name="humidityError">No hay sensor de humidad disponible en este dispositivo</string>
+    <string name="ambient_humidity">Temperatura: </string>
+    <string name="ambient_temperature">Humidad: </string>
+    <string name="centerCatalunya">Centra Catalunya</string>
+    <string-array name="timeRefresh">
+        <item>10 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+        <item>5 min</item>
+        <item>15 min</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+    </string-array>
+    <string name="save">Guardar cambios</string>
+    <string name="timeSendData">Intervalo de envio de datos</string>
+    <string name="timeRefreshMap">Intervalo de actualización de datos</string>
+    <string name="use_terms_text">En construccion</string>
+    <string name="privacy_policy_text">Esta aplicación no usa ni envia datos personales, toda la información es tratada de forma confidencial y anonima.</string>
+    <string name="device_not_supported">Dispositivo no soportado</string>
+    <string name="settings_text">Texto_configuración</string>
+</resources>

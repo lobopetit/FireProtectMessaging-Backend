@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "827427301737",
+    "project_id": "fireprotect-b6240"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827427301737:android:a0fefa0086ccae91",
+        "android_client_info": {
+          "package_name": "com.example.xavier.fireprotect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqlEv2Hmb8gN5Gkv12I-KEQLCcS5jjVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

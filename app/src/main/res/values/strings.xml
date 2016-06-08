@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FireProtect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="button_main_screen">Main</string>
+    <string name="help_text">\n\t\tThis app consists in the monitoring of the fire danger in a concrete place.
+\n\n\t\t You can send us your lectures of humidity and temperature, together with your position and we create the map. Also you can check the map created with the data that send other users.
+\n\n\t\t If you still have problems, don\'t hesitate to contact us.</string>
+    <string name="intro">intro</string>
+    <string name="go_help_screen">Go help</string>
+    <string name="call_emergency">Emergency call in process</string>
+    <string name="legal_terms">Legal terms</string>
+    <string name="nav_use_terms">Terms of use</string>
+    <string name="nav_privacy_policy">Privacy policy</string>
+    <string name="use_terms_text">In construction</string>
+    <string name="privacy_policy_text">This application don\'t use or send personal data, all the
+        information are treated confidential and anonimus.</string>
+    <string name="credits">Created by Xavier and Dídac</string>
+    <string name="initial_description">Send your values or consult the existing ones</string>
+    <string name="contact">Contact with us</string>
+    <string name="start_mesure">Touch the button to start mesuring</string>
+    <string name="send_mail">Send mail</string>
+    <string name="saved">Changes saved</string>
+    <string name="phoning">Calling...</string>
+    <string name="btn_start_recording">START MESURING</string>
+    <string name="btn_stop_recording">STOP MESURING</string>
+    <string name="new_information">New information!!</string>
+    <string name="last_reading">Last reading</string>
+    <string name="error_mesuring">We couldn\'t get the actual values. Make shure your configuration and connections are OK.</string>
+    <string name="celsius" translatable="false">°C</string>
+    <string name="temperatureError">Sorry, temperature sensor not available for this device.</string>
+    <string name="humidityError">Sorry, humidity sensor not available for this device.</string>
+    <string name="percent" translatable="false">%</string>
+    <string name="ambient_humidity">Ambient humidity:</string>
+    <string name="ambient_temperature">Ambient temperature:</string>
+    <string name="centerCatalunya">Show Catalunya</string>
+    <string name="settings_text">setting_Text</string>
+    <string-array name="timeRefresh">
+        <item>10 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+        <item>5 min</item>
+        <item>15 min</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+    </string-array>
+    <string name="save">Save changes</string>
+    <string name="timeSendData">Interval to send data</string>
+    <string name="timeRefreshMap">Interval to refresh the map</string>
+    <string name="device_not_supported">Device not supported</string>
+
+</resources>
